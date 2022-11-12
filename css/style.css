@@ -302,7 +302,7 @@ i.fa:hover {
 
 .burger__item {
     display: block;
-    width: 28px;
+    width: 30px;
     height: 3px;
 
     background-color: #fff;
@@ -331,7 +331,7 @@ i.fa:hover {
 }
 
 .burger__item:after {
-    width: 26px;
+    width: 30px;
     bottom: -8px;
 }
 
